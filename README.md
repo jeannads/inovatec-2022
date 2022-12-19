@@ -1,20 +1,43 @@
 # Projeto de Inovação (Inovatec 2022)
 
 ## Integrantes 
+Gestão Executiva - Jeanna Dias da Silva
+Gestão Operacional - Marina Santos Silva
+Gestão de Marketing - Felipe Henrique Alves Bezerra
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
 
 ## Passos
 
-Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/Efb7IK14WzJNhnx7wmDwh9gBydAUvsgfLgGvpanquISsZg). Basicamente, segue uma síntese de cada passo:
-- 1º Passo: Definir as metas e objetivos do projeto de inovação, desenhando um escopo; 
-- 2º Passo: Planejar o projeto de inovação, criando um cronograma; 
+- 1º Passo: Definir as metas e objetivos do projeto de inovação, desenhando um escopo;
+
+    O projeto tem como missão facilitar a transição da adolescência para a fase adulta, simplificando burocracias, levando informações sobre direitos e deveres na nova fase e informações sobre carreira, saúde, educação financeira e cuidados domésticos. Tem como público alvo jovens baixa renda de 17 a 24 anos que estão encerrando o ensino médio e precisam de orientações: qual carreira eu devo seguir? como cuidar do meu dinheiro? quais possibilidades eu tenho? e dá suporte e soluciona as dúvidas mais comuns que esses jovens tem, orientando em relação à vivência nesse novo mundo bastante burocrático ao qual ele está adentrando. Dando luz às possibilidades.
+
+  Tem como possíveis restrições a dificuldade em obter mão de obra qualificada dentro do valor proposto, dificuldades em alcançar os jovens que mais precisam do serviço oferecido, dificuldades financeiras.
+
+  As principais ferramentas necessárias para a execução desse projeto são: profissionais de desenvolvimento front-end e back-end, web e mobile (time remoto), hospedagem de sites e aplicação, campanha de marketing, ferramentas para organização interna das equipes de marketing e desenvolvimento, profissional de relações públicas para monitoramento das mudanças e surgimento de políticas públicas que se enquadram na proposta do projeto, profissional de redação.
+
+- 2º Passo: Planejar o projeto de inovação, criando um cronograma;
+
+   - Pesquisa: do que esses jovens precisam? quais as maiores dificuldades que eles encontram nas áreas de: organização de documentos, educação financeira, saúde, educação e informações sobre morar sozinhos? A pesquisa deverá ser feita através de formulários presencial e virtualmente.
+  - Desenvolvimento do projeto
+  - Teste
+  - Implementação
+  - Campanhas de marketing
+
+
 - 3º Passo: Desenvolver o projeto de inovação, deixando claras suas entregas de valor; 
-- 4º Passo: Avaliar o projeto de inovação, coletando e analisando os feedbacks;
-- 5º Passo: Apresentar do projeto na feira de inovação 🚀
+
+  - Redação: profissional de políticas públicas deve selecionar as melhores políticas públicas a serem abordadas pelo projeto e definir pautas; redatora: redigir pautas definidas e desenvolver novas pautas que considerar compatíveis.
+
+  - Desenvolvimento: profissional de UX e UI deverá desenvolver protótipo do site, sempre dando bastante ênfase à acessibilidade; desenvolvedores web e mobile, front e back-end devem desenvolver o protótipo definidos pelo time de UX e UI sempre com abertura para mudanças e discussões sobre funcionalidades compatíveis.
+
+  - Marketing: desenvolver a estratégia de marketing ideal para alcançar o maior número de jovens possível, tanto online quanto offline.
+
+  - Administrativo e financeiro: dar suporte aos times e manter o projeto funcionando burocráticamente.
+
 
 ## Pitch
 
-Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresentação etc). Nesse sentido, um vídeo de Pitch pode ser criado e disponibilizado aqui (através de um link), facilitando o entendimento/compartilhamento do seu projeto de inovação. 
+A apresentação será feita por Felipe Bezerra.
 
-Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
+Link para a apresentação: https://www.canva.com/design/DAFVKANkJgw/7dV6h5hCyF8yTCjJd0YNtA/view?utm_content=DAFVKANkJgw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
