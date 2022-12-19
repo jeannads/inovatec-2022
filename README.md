@@ -6,6 +6,8 @@ Gestão Operacional - Marina Santos Silva
 Gestão de Marketing - Felipe Henrique Alves Bezerra  
 
 
+
+
 ## Passos
 
 - 1º Passo: Definir as metas e objetivos do projeto de inovação, desenhando um escopo;
