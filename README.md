@@ -1,9 +1,9 @@
 # Projeto de Inovação (Inovatec 2022)
 
 ## Integrantes 
-Gestão Executiva - Jeanna Dias da Silva
-Gestão Operacional - Marina Santos Silva
-Gestão de Marketing - Felipe Henrique Alves Bezerra
+Gestão Executiva - Jeanna Dias da Silva  
+Gestão Operacional - Marina Santos Silva  
+Gestão de Marketing - Felipe Henrique Alves Bezerra  
 
 
 ## Passos
