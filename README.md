@@ -39,7 +39,6 @@ Gestão de Marketing - Felipe Henrique Alves Bezerra
 
 
 ## Pitch
+Mais informações sobre a ideia por trás do projeto:  
 
-A apresentação será feita por Felipe Bezerra.
-
-Link para a apresentação: https://www.canva.com/design/DAFVKANkJgw/7dV6h5hCyF8yTCjJd0YNtA/view?utm_content=DAFVKANkJgw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link para a apresentação: https://bityli.com/vMW2V
