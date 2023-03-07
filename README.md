@@ -39,6 +39,4 @@ Gestão de Marketing - Felipe Henrique Alves Bezerra
 
 
 ## Pitch
-Mais informações sobre a ideia por trás do projeto:  
-
-Link para a apresentação: https://bityli.com/vMW2V
+Mais informações sobre a ideia por trás do projeto: https://tinyurl.com/4dt7477j  
